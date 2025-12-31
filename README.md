@@ -59,7 +59,7 @@ java Main <input_file> <output_file>
 **Example:**
 
 ```bash
-java Main scenarios/network_layout.txt logs/simulation_results.txt
+java Main testcases/inputs/input.txt output.txt
 
 ```
 
